@@ -1,2 +1,1 @@
-# Week1
-Assignment 1 for Forest Fire Detection Using Deep learning
+Assignment for Forest Fire Detection Using Deep learning
